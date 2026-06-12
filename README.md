@@ -1,2 +1,2 @@
-# bull-and-cows
+# bulls-and-cows
 ИКМ по с++
